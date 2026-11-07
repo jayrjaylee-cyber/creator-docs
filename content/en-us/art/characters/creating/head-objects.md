@@ -1,8 +1,25 @@
 ---
-title: Template head structure
-description: Each Roblox avatar template contains modular separate pieces that must later be combined or removed.
-next: /art/characters/creating/blender-configurations
-prev: /art/characters/creating/template-files
+
+<table>
+  <tr>
+    <th>Title</th>
+    <td>Build the Face: Understanding the Roblox Head Structure</td>
+  </tr>
+  <tr>
+    <th>Description</th>
+    <td>Every great Roblox avatar starts with the right structure! Explore how separate modular head pieces work together and learn which parts to combine, adjust, or remove to create a seamless character design.</td>
+  </tr>
+  <tr>
+    <th>Next</th>
+    <td>/art/characters/creating/blender-configurations</td>
+  </tr>
+  <tr>
+    <th>Prev</th>
+    <td>/art/characters/creating/template-</td>
+  </tr>
+</table>
+
+files
 ---
 
 Each avatar character body template includes extra head mesh objects and face armature bones. Separating these objects within the templates allows you to make easier changes to each of these separate objects, as demonstrated during the texturing section of this tutorial.
